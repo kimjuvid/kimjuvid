@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Minkyo%20Jeong&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Juhyeon%20Kim&fontSize=70)
 
 <div align="center">
 
