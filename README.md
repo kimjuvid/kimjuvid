@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Juhyeon%20Kim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Juhyeon%20Kim&fontSize=70)
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 **Programing Languages**
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>
-  ![C#](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)<br>
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)<br>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,7 +51,7 @@
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |여행 펀딩 프로그램| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/kimjuvid/TravelTogether)|
-|외국인 관광객과 유학생을 위한 여행 통합 플랫폼| Back : Spring Boot, Spring Security<br> Front : HTMl, CSS, React | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/kimjuvid/Urcarcher_Card-Service_ShinhanDS-Academy)|
+|외국인 관광객과 유학생을 위한 여행 통합 플랫폼| Back : Spring Boot, Spring Security<br> Front : HTMl, CSS, React<br> DB: MariaDB | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/kimjuvid/Urcarcher_Card-Service_ShinhanDS-Academy)|
 
 <br>
 
