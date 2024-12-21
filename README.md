@@ -52,10 +52,3 @@
 |외국인 관광객과 유학생을 위한 여행 통합 플랫폼| Back : Spring Boot, Spring Security<br> Front : HTMl, CSS, React<br> DB: MariaDB | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/kimjuvid/Urcarcher_Card-Service_ShinhanDS-Academy)|
 
 <br>
-
-
-<div align="center">
-  
-  ![footer](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=footer&text=Thank%20you&fontSize=50)
-
-</div>
