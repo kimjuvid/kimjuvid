@@ -7,7 +7,6 @@
     <br>
    Hi, I'm Juhyeon Kim!
     <br>
-   I'm looking for a job as a Backend Developer <br>
 </div>
 
 ## Skills
