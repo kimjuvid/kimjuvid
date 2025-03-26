@@ -21,6 +21,7 @@
 
 **Frame Work & Library**
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 <br>
@@ -33,7 +34,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-**협업 Tool**
+**Collaboration Stack**
 
 <p>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -43,11 +44,18 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+**DevOps / Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
 ## Project
 
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |여행 펀딩 프로그램| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/kimjuvid/TravelTogether)|
 |외국인 관광객과 유학생을 위한 여행 통합 플랫폼| Back : Spring Boot, Spring Security<br> Front : HTMl, CSS, React<br> DB: MariaDB | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/kimjuvid/Urcarcher_Card-Service_ShinhanDS-Academy)|
-|채팅 프로그램| Back : Spring Boot, Spring Security, RESTfulAPI, WebSocket(STOMP), Java, JPA, JWT, Lombok, Swagger <br> DB: Mysql | ![Solo](https://img.shields.io/badge/Team-red) | 2025/02/01 ~ 2025/03/01| [Repo](https://github.com/kimjuvid/chatting-server)|
+|채팅 프로그램| Back : Spring Boot, Spring Security, RESTfulAPI, WebSocket(STOMP), Java, JPA, JWT, Lombok, Swagger <br> DB: Mysql | ![Solo](https://img.shields.io/badge/Solo-blue) | 2025/02/01 ~ 2025/03/01| [Repo](https://github.com/kimjuvid/chatting-server)|
 <br>
